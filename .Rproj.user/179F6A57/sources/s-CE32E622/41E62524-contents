@@ -1,0 +1,20 @@
+install.packages("AID")
+library("AID")
+b<-1:12
+dim(b) <- c(2,3,2)
+dim(b)
+b
+
+vv<- ??factor("a","b","c")
+vv
+??factor
+
+z=c(1:3, NA)
+is.na(z)
+c(2,4,6,8) + c(1,3,5,7,9)
+
+??subst
+
+x<-1:100
+x
+?sum(x>50)

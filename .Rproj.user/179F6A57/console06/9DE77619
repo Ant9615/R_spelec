@@ -1,0 +1,91 @@
+[0m[0K[?25lMicrosoft Windows [Version 10.0.17763.678][0K
+(c) 2018 Microsoft Corporation. All rights reserved.[0K
+[0K
+C:\Users\user\Desktop\R특강\11>[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[0m[1;1H[2J[0m                               g[0Ki[0Kt[0K[36G[?25l                               git i[0K[?25hn[0Ki[0Kt[0K]0;  - git  init[?25l
+[0K[?25hInitialized empty Git repository in C:/Users/user/Desktop/R특강/11/.git/[0K[?25l
+[0K[?25h]0; [?25l
+C:\Users\user\Desktop\R특강\11>[0K[?25hg[0Ki[0Kt[0K[36G[?25lC:\Users\user\Desktop\R특강\11>git i[0K[?25hn[0Ki[0Kt[0K]0;  - git  init[?25l
+[0K[?25hReinitialized existing Git repository in C:/Users/user/Desktop/R특강/11/.git/[0K[?25l
+[0K[?25h]0; [?25l
+C:\Users\user\Desktop\R특강\11>[0K[?25hg[0Ki[0Kt[0K[36G[?25lC:\Users\user\Desktop\R특강\11>git a[0K[?25hd[0Kd[0K[40G[?25lC:\Users\user\Desktop\R특강\11>git add .[0K[?25h]0;  - git  add .[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rhistory.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/pcs/debug-breakpoints.pper.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/179F6A57/pcs/files-pane.pper.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/pcs/source-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/pcs/windowlayoutstate.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/pcs/workbench-pane.pper.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/persistent-state.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/rmd-outputs.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/12FB68D8.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/1BBCD74C.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/28801A98.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/C3A0E8E2.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/CCE2DD77.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/D0CCC64D.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/E24348E0.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/31452C7B.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/41E62524.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/41E62524-contents.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/992FEF94.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/992FEF94-contents.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/B1988EC1.[0K[?25l
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/B1988EC1-contents.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/D8AEC144.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/D8AEC144-contents.[0K
+The file will have its original line endings in your working directory[0K
+warning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
+The file will have its original line endings in your working directory[0K
+[0K[?25h]0; [?25l
+C:\Users\user\Desktop\R특강\11>[0K[?25hg[0Ki[0Kr[0K[36G[35G[?25lC:\Users\user\Desktop\R특강\11>gi[0K[?25ht[0K[36G[35G[?25lC:\Users\user\Desktop\R특강\11>gi[0K[?25h[?25lC:\Users\user\Desktop\R특강\11>g[0K[?25h[?25lC:\Users\user\Desktop\R특강\11>[0K[?25h[33G[?25lC:\Users\user\Desktop\R특강\11> g[0K[?25hi[0Kt[0K[37G[36G[?25lC:\Users\user\Desktop\R특강\11> gi[0K[?25h[?25lC:\Users\user\Desktop\R특강\11> g[0K[?25h[?25lC:\Users\user\Desktop\R특강\11>[0K[33G[?25h[32G[?25lC:\Users\user\Desktop\R특강\11>g[0K[?25hi[0Kt[0K[36G[?25lC:\Users\user\Desktop\R특강\11>git a[0K[?25hd[0Kd[0K[40G[?25lC:\Users\user\Desktop\R특강\11>git add .[0K[?25h]0;  - git  add .[?25l
+[0K[?25h
