@@ -1,91 +1,67 @@
-[0m[0K[?25lMicrosoft Windows [Version 10.0.17763.678][0K
+[?25l[0mMicrosoft Windows [Version 10.0.17763.678][0K
 (c) 2018 Microsoft Corporation. All rights reserved.[0K
 [0K
 C:\Users\user\Desktop\R특강\11>[0K
 [0K
 [0K
+[0K[0m[1;1H[2J[0m                              g[0Ki[0Kt[0K]0;  - git[?25l
+[0K[?25h]0; usage: git [--version] [--help] [-C <path>] [-c <name>=<value>][0K[?25l
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--in[0Kf
+o-path][0K
+           [-p | --paginate | -P | --no-pager] [--no-replace-objec[0Kt
+s] [--bare][0K
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<n[0Ka
+me>][0K
+           <command> [<args>][0K
+[0K
+These are common Git commands used in various situations:[0K
+[0K
+start a working area (see also: git help tutorial)[0K
+   clone      Clone a repository into a new directory[0K
+   init       Create an empty Git repository or reinitialize an ex[0Ki
+sting one[0K
+[0K
+work on the current change (see also: git help everyday)[0K
+   add        Add file contents to the index[0K
+   mv         Move or rename a file, a directory, or a symlink[0K
+   reset      Reset current HEAD to the specified state[0K
+   rm         Remove files from the working tree and from the inde[0Kx
 [0K
 [0K
+examine the history and state (see also: git help revisions)[0K
+   bisect     Use binary search to find the commit that introduced[0K
+a bug[0K
+   grep       Print lines matching a pattern[0K
+   log        Show commit logs[0K
+   show       Show various types of objects[0K
+   status     Show the working tree status[0K
 [0K
+grow, mark and tweak your common history[0K
+   branch     List, create, or delete branches[0K
+   checkout    Switch branches or restore working tree files[0K
+   commit     Record changes to the repository[0K
+   diff       Show changes between commits, commit and working tre[0Ke
+, etc[0K
+   merge      Join two or more development histories together[0K
+   rebase     Reapply commits on top of another base tip[0K
+   tag        Create, list, delete or verify a tag object signed w[0Ki
+th GPG[0K
 [0K
+collaborate (see also: git help workflows)[0K
+   fetch      Download objects and refs from another repository[0K
+   pull       Fetch from and integrate with another repository or [0Ka
+ local branch[0K
+   push       Update remote refs along with associated objects[0K
 [0K
+'git help -a' and 'git help -g' list available subcommands and som[0Ke
 [0K
+concept guides. See 'git help <command>' or 'git help <concept>'[0K
+to read about a specific subcommand or concept.[0K
 [0K
+C:\Users\user\Desktop\R특강\11>[0K[?25hg[0Ki[0Kt[0K[36G[?25lC:\Users\user\Desktop\R특강\11>git i[0K[?25hn[0Ki[0Kt[0K[?25l
+[0K[?25h]0;  - git  init]0; Reinitialized existing Git repository in C:/Users/user/Desktop/R특[0K[?25l
+강/11/.git/[0K
 [0K
-[0K
-[0K
-[0K
-[0K
-[0K
-[0K
-[0K
-[0K
-[0K
-[0K
-[0K
-[0K
-[0K
-[0K
-[0K
-[0K[0m[1;1H[2J[0m                               g[0Ki[0Kt[0K[36G[?25l                               git i[0K[?25hn[0Ki[0Kt[0K]0;  - git  init[?25l
-[0K[?25hInitialized empty Git repository in C:/Users/user/Desktop/R특강/11/.git/[0K[?25l
+C:\Users\user\Desktop\R특강\11>[0K[?25hg[0Ki[0Kt[0K[36G[?25lC:\Users\user\Desktop\R특강\11>git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K]0;  - git  remote[?25l
 [0K[?25h]0; [?25l
-C:\Users\user\Desktop\R특강\11>[0K[?25hg[0Ki[0Kt[0K[36G[?25lC:\Users\user\Desktop\R특강\11>git i[0K[?25hn[0Ki[0Kt[0K]0;  - git  init[?25l
-[0K[?25hReinitialized existing Git repository in C:/Users/user/Desktop/R특강/11/.git/[0K[?25l
-[0K[?25h]0; [?25l
-C:\Users\user\Desktop\R특강\11>[0K[?25hg[0Ki[0Kt[0K[36G[?25lC:\Users\user\Desktop\R특강\11>git a[0K[?25hd[0Kd[0K[40G[?25lC:\Users\user\Desktop\R특강\11>git add .[0K[?25h]0;  - git  add .[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rhistory.[0K[?25l
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/pcs/debug-breakpoints.pper.[0K
-The file will have its original line endings in your working directory[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/179F6A57/pcs/files-pane.pper.[0K[?25l
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/pcs/source-pane.pper.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/pcs/windowlayoutstate.pper.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/pcs/workbench-pane.pper.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/persistent-state.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/rmd-outputs.[0K
-The file will have its original line endings in your working directory[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/12FB68D8.[0K[?25l
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/1BBCD74C.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/28801A98.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/C3A0E8E2.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/CCE2DD77.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/D0CCC64D.[0K
-The file will have its original line endings in your working directory[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/E24348E0.[0K[?25l
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/prop/INDEX.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/31452C7B.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/41E62524.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/41E62524-contents.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/992FEF94.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/992FEF94-contents.[0K
-The file will have its original line endings in your working directory[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/B1988EC1.[0K[?25l
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/B1988EC1-contents.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/D8AEC144.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/179F6A57/sources/s-CE32E622/D8AEC144-contents.[0K
-The file will have its original line endings in your working directory[0K
-warning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K
-The file will have its original line endings in your working directory[0K
-[0K[?25h]0; [?25l
-C:\Users\user\Desktop\R특강\11>[0K[?25hg[0Ki[0Kr[0K[36G[35G[?25lC:\Users\user\Desktop\R특강\11>gi[0K[?25ht[0K[36G[35G[?25lC:\Users\user\Desktop\R특강\11>gi[0K[?25h[?25lC:\Users\user\Desktop\R특강\11>g[0K[?25h[?25lC:\Users\user\Desktop\R특강\11>[0K[?25h[33G[?25lC:\Users\user\Desktop\R특강\11> g[0K[?25hi[0Kt[0K[37G[36G[?25lC:\Users\user\Desktop\R특강\11> gi[0K[?25h[?25lC:\Users\user\Desktop\R특강\11> g[0K[?25h[?25lC:\Users\user\Desktop\R특강\11>[0K[33G[?25h[32G[?25lC:\Users\user\Desktop\R특강\11>g[0K[?25hi[0Kt[0K[36G[?25lC:\Users\user\Desktop\R특강\11>git a[0K[?25hd[0Kd[0K[40G[?25lC:\Users\user\Desktop\R특강\11>git add .[0K[?25h]0;  - git  add .[?25l
-[0K[?25h
+C:\Users\user\Desktop\R특강\11>[0K[?25hg[0Ki[0Kt[0K[36G[?25lC:\Users\user\Desktop\R특강\11>git a[0K[?25hd[0Kd[0K[40G[?25lC:\Users\user\Desktop\R특강\11>git add .[0K[?25h

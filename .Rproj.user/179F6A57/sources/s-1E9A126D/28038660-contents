@@ -1,0 +1,21 @@
+install.packages("datasets")
+library(datasets)
+
+#4개 변수들 간의 산점도 
+data("USArrests")
+pairs(USArrests, panel=panel.smooth, main="USArrests data")
+
+#summary (1,2주성분 활용)
+US.prin <- princomp(USArrests, cor=TRUE)
+summary(US.prin)
+screeplot(US.prin, npcs = 4, type = "lines")
+
+#loading
+loadings(US.prin)
+
+#scores
+head(US.prin$scores,5)
+
+#1,2주성분 행렬도
+arrests.pca <- prcomp(USArrests,center = TRUE, scale. = TRUE)
+biplot(arrests.pca,scale=0)

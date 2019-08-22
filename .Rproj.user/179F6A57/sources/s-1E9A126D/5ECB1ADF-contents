@@ -1,0 +1,25 @@
+#다차원척도법
+install.packages("MASS")
+library(MASS)
+
+#계량MDS
+dis<-cmdscale(eurodist)
+x<-dis[,1]
+y<-dis[,2]
+plot(x,y,type = "n",asp = 1,main = "Metric MDS")
+text(x,y,rownames(dis),cex=0.7)
+abline(v=0,h=0,lty=2,lwd=0.5)
+
+#비계량MDS(isoMDS) 
+swiss.x <- as.matrix(swiss[,-1])
+swiss.dist <- dist(swiss.x)
+swiss.mds <- isoMDS(swiss.dist)
+plot(swiss.mds$points, type="n")
+text(swiss.mds$points, labels = as.character(1:nrow(swiss.x)))
+abline(v=0,h=0,lty=2,lwd=0.5)
+
+#비계량MDS(sammon)
+swiss.x <- as.matrix(swiss[,-1])
+swiss.sammon <- sammon(dist(swiss.x))
+plot(swiss.sammon$points, type = "n")
+text(swiss.sammon$points, labels = as.character(1:nrow(swiss.x)))
