@@ -40,3 +40,4 @@ c_use <- select(dd, id,ses, prog,read)
 c_drop <- select(dd, -c(ses,prog, read))
 c_all <- cbind(c_use, c_drop)
 head(c_all,5)
+
